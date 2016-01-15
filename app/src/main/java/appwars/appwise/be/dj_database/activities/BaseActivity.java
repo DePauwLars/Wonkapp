@@ -1,6 +1,7 @@
 package appwars.appwise.be.dj_database.activities;
 
 import android.app.Activity;
+import android.content.Context;
 import android.support.v7.app.AppCompatActivity;
 
 /**
